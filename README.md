@@ -16,3 +16,7 @@ Screen Capture -> Image Processing -> ML (Vision) -> FSM (Decision) -> Input Sim
 6. Profiling
 7. CI
 8. Dependency Management
+
+### Status
+
+🚧 Phase 0 — environment - ongoing
